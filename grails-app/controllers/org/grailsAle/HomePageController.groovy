@@ -1,4 +1,4 @@
-package org.grailsAndAle
+package org.grailsAle
 
 class HomePageController {
 
